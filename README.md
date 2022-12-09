@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Indigo
 - 👀 I’m interested in coding and football(soccer)
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and HTML/CSS
